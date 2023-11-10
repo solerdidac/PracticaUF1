@@ -1,0 +1,14 @@
+C:\Users\didac\OneDrive\Escritorio\1DAW\M05\UF1\PracticaUF1\bin\Debug\net8.0\PracticaUF1.exe
+C:\Users\didac\OneDrive\Escritorio\1DAW\M05\UF1\PracticaUF1\bin\Debug\net8.0\PracticaUF1.deps.json
+C:\Users\didac\OneDrive\Escritorio\1DAW\M05\UF1\PracticaUF1\bin\Debug\net8.0\PracticaUF1.runtimeconfig.json
+C:\Users\didac\OneDrive\Escritorio\1DAW\M05\UF1\PracticaUF1\bin\Debug\net8.0\PracticaUF1.dll
+C:\Users\didac\OneDrive\Escritorio\1DAW\M05\UF1\PracticaUF1\bin\Debug\net8.0\PracticaUF1.pdb
+C:\Users\didac\OneDrive\Escritorio\1DAW\M05\UF1\PracticaUF1\obj\Debug\net8.0\PracticaUF1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didac\OneDrive\Escritorio\1DAW\M05\UF1\PracticaUF1\obj\Debug\net8.0\PracticaUF1.AssemblyInfoInputs.cache
+C:\Users\didac\OneDrive\Escritorio\1DAW\M05\UF1\PracticaUF1\obj\Debug\net8.0\PracticaUF1.AssemblyInfo.cs
+C:\Users\didac\OneDrive\Escritorio\1DAW\M05\UF1\PracticaUF1\obj\Debug\net8.0\PracticaUF1.csproj.CoreCompileInputs.cache
+C:\Users\didac\OneDrive\Escritorio\1DAW\M05\UF1\PracticaUF1\obj\Debug\net8.0\PracticaUF1.dll
+C:\Users\didac\OneDrive\Escritorio\1DAW\M05\UF1\PracticaUF1\obj\Debug\net8.0\refint\PracticaUF1.dll
+C:\Users\didac\OneDrive\Escritorio\1DAW\M05\UF1\PracticaUF1\obj\Debug\net8.0\PracticaUF1.pdb
+C:\Users\didac\OneDrive\Escritorio\1DAW\M05\UF1\PracticaUF1\obj\Debug\net8.0\PracticaUF1.genruntimeconfig.cache
+C:\Users\didac\OneDrive\Escritorio\1DAW\M05\UF1\PracticaUF1\obj\Debug\net8.0\ref\PracticaUF1.dll
